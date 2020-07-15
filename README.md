@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello Madafaka  👋
+- 🔭 I’m currently working on Custom Software Laravel + Vue 
+- 💬 Ask me about anything about laravel & vue
+- 📫 How to reach me: agus.skylite@gmail.com 
 
 <!--
 **AgustLite/AgustLite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
