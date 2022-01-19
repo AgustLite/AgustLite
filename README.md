@@ -1,4 +1,4 @@
-### Hello Madafaka  👋
+### Hello  👋
 - 🔭 I’m currently working on Custom Software Laravel + Vue 
 - 💬 Ask me about anything about laravel & vue
 - 📫 How to reach me: agus.skylite@gmail.com 
